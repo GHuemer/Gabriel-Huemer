@@ -11,7 +11,7 @@
 
 **Sistemas de Informação @ USP · Full Stack Developer · IA & Pesquisa Operacional**
 
-Desenvolvedor focado em entregar soluções de alto desempenho que conectam **engenharia de software**, **IA aplicada (RAG)** e **otimização matemática** para problemas reais de negócio. Atuo desde sistemas de baixo nível até aplicações web e arquiteturas em nuvem escaláveis.
+## Desenvolvedor focado em entregar soluções de alto desempenho que conectam softwares para problemas reais de negócio. Atuo desde sistemas de baixo nível até aplicações web e arquiteturas em nuvem escaláveis.
 
 [💼 LinkedIn](https://linkedin.com/in/gabrielhuemer) ·
 [📁 GitHub](https://github.com/GHuemer) ·
@@ -25,7 +25,7 @@ Desenvolvedor focado em entregar soluções de alto desempenho que conectam **en
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em **Sistemas de Informação — USP (São Carlos)**  
+- 🎓 Graduando em **Sistemas de Informação — USP (ICMC)**  
 - 💼 Desenvolvedor **Full Stack Freelancer**, projetos end-to-end  
 - 🚀 Foco em **IA Generativa (RAG)**, **Pesquisa Operacional** e **Otimização Matemática**  
 - 📐 Base sólida em **Álgebra Linear**, **Cálculo Numérico**, **Estruturas de Dados** e **Algoritmos**
